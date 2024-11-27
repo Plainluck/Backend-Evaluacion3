@@ -1,0 +1,42 @@
+[
+    {
+        "model":"PokeTCG.Expansion",
+        "pk":1,
+        "fields":{
+            "name":"Steam Siege",
+            "release_date":"2016-08-03"
+        }
+    },
+    {
+        "model":"PokeTCG.Expansion",
+        "pk":2,
+        "fields":{
+            "name":"Team Magma vs Team Aqua",
+            "release_date":"2003-10-24"
+        }
+    },
+    {
+        "model":"PokeTCG.Expansion",
+        "pk":3,
+        "fields":{
+            "name":"Delta Species",
+            "release_date":"2005-10-28"
+        }
+    },
+    {
+        "model":"PokeTCG.Expansion",
+        "pk":4,
+        "fields":{
+            "name":"Team Rocket Returns",
+            "release_date":"2004-10-15"
+        }
+    }
+
+
+
+
+
+
+
+
+]

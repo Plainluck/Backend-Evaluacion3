@@ -1,0 +1,46 @@
+[
+    {
+        "model":"PokeTCG.Pokemon",
+        "pk":1,
+        "fields":{
+            "name":"Volcanion",
+            "skill":"Volcanic Heat"
+        }
+    },
+    {
+        "model":"PokeTCG.Pokemon",
+        "pk":2,
+        "fields":{
+            "name":"Groudon",
+            "skill":"Pulverize"
+        }
+    },
+    {
+        "model":"PokeTCG.Pokemon",
+        "pk":3,
+        "fields":{
+            "name":"Galvantula",
+            "skill":"Electroweb"
+        }
+    },
+    {
+        "model":"PokeTCG.Pokemon",
+        "pk":4,
+        "fields":{
+            "name":"Vaporeon",
+            "skill":"Return Wave"
+        }
+    },
+    {
+        "model":"PokeTCG.Pokemon",
+        "pk":5,
+        "fields":{
+            "name":"Dark Weezing",
+            "skill":"Darkness Charge"
+        }
+    }
+
+    
+
+
+]
